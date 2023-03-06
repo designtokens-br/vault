@@ -1,0 +1,16 @@
+[
+  {
+    "id": "04e143c1dab2e849e96bd3144ceb76ce2ba27f95",
+    "name": "Vault Light",
+    "selectedTokenSets": {
+      "CORE / Foundations": "enabled",
+      "CORE / Semantics": "enabled",
+      "THEMES / Vault / Light": "enabled",
+      "THEMES / Vault / Base/ Dimensions": "enabled",
+      "THEMES / Vault / Base/ Fonts": "enabled",
+      "COMPONENTS / Button": "enabled",
+      "THEMES / Vault / Base/ Colors Scales": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

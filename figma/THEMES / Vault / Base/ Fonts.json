@@ -1,0 +1,26 @@
+{
+  "vault": {
+    "font": {
+      "family": {
+        "1": {
+          "value": "Montserrat",
+          "type": "fontFamilies"
+        },
+        "2": {
+          "value": "Roboto",
+          "type": "fontFamilies"
+        },
+        "3": {
+          "value": "Roboto Mono",
+          "type": "fontFamilies"
+        }
+      },
+      "base": {
+        "size": {
+          "value": "16px",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}

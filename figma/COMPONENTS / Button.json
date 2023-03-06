@@ -1,0 +1,77 @@
+{
+  "vault": {
+    "button": {
+      "color": {
+        "contained": {
+          "base": {
+            "primary": {
+              "background": {
+                "default": {
+                  "value": "{vault.color.interactive.default}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{vault.color.interactive.hover}",
+                  "type": "color"
+                },
+                "active": {
+                  "value": "{vault.color.interactive.active}",
+                  "type": "color"
+                },
+                "press": {
+                  "value": "{vault.color.interactive.press}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{vault.color.interactive.focus}",
+                  "type": "color"
+                }
+              }
+            },
+            "secondary": {
+              "background": {
+                "default": {
+                  "value": "{vault.color.surface.light.primary.default}",
+                  "type": "color"
+                },
+                "hover": {
+                  "value": "{vault.color.surface.light.primary.hover}",
+                  "type": "color"
+                },
+                "active": {
+                  "value": "{vault.color.surface.light.primary.active}",
+                  "type": "color"
+                },
+                "press": {
+                  "value": "{vault.color.surface.light.primary.press}",
+                  "type": "color"
+                },
+                "focus": {
+                  "value": "{vault.color.surface.light.primary.focus}",
+                  "type": "color"
+                }
+              }
+            }
+          }
+        }
+      },
+      "contained": {
+        "base": {
+          "primary": {
+            "sm": {
+              "default": {
+                "value": {
+                  "height": "{vault.form.size.height.sm}",
+                  "horizontalPadding": "{vault.spacing.padding.sm}",
+                  "fill": "{vault.button.color.contained.base.primary.background.default}",
+                  "borderRadius": "{vault.form.border.radius}"
+                },
+                "type": "composition"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

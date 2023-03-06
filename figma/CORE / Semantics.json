@@ -1,0 +1,26 @@
+{
+  "vault": {
+    "opacity": {
+      "disabled": {
+        "value": "{vault.opacity.sm}",
+        "type": "opacity"
+      },
+      "dragged": {
+        "value": "{vault.opacity.md}",
+        "type": "opacity"
+      },
+      "overlay": {
+        "value": "{vault.opacity.lg}",
+        "type": "opacity"
+      },
+      "total": {
+        "value": "{vault.opacity.xl}",
+        "type": "opacity"
+      },
+      "transparent": {
+        "value": "{vault.opacity.xs}",
+        "type": "opacity"
+      }
+    }
+  }
+}

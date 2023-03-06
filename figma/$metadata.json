@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "CORE / Foundations",
+    "THEMES / Vault / Base/ Colors Scales",
+    "THEMES / Vault / Base/ Fonts",
+    "THEMES / Vault / Base/ Dimensions",
+    "THEMES / Vault / Light",
+    "CORE / Semantics",
+    "COMPONENTS / Button"
+  ]
+}
